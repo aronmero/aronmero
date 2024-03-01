@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🥉 in [Canarias Skills 2024](https://canariasskills.com/) *(in the web development modality)*
 <!--
 **aronmero/aronmero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
