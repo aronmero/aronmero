@@ -5,7 +5,7 @@ Higher Technician in Web Development
 ------------------------------------
 🥉 in [Canarias Skills 2024](https://canariasskills.com/) *(in the web development modality)*
 
-🖥️  See my portfolio at [aronmero](http://aronmero.vercel.app/)
+🖥️  See my portfolio at [aronmero](http://aronmero.com/)
 
 ### Skills
 
