@@ -1,13 +1,13 @@
-Hi 👋 My name is Aaron
+Hola 👋 Mi nombre es Aaron
 ======================
 
-Higher Technician in Web Development
+Desarrollador fullstack
 ------------------------------------
-🥉 in [Canarias Skills 2024](https://canariasskills.com/) *(in the web development modality)*
+🥉 en [Canarias Skills 2024](https://canariasskills.com/) *(en la modalidad de desarrollo web)*
 
-🖥️  See my portfolio at [aronmero](http://aronmero.com/)
+🖥️  Mira mi portfolio en [aronmero](http://aronmero.com/)
 
-### Skills
+### Habilidades
 
 
 <p align="left">
@@ -15,6 +15,6 @@ Higher Technician in Web Development
 </p>
 
 
-### Socials
+### Social
 
 <p align="left"> <a href="https://www.github.com/aronmero" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aaron-medina-rodriguez/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
