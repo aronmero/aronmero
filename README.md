@@ -1,7 +1,7 @@
 Hola 👋 Mi nombre es Aaron
 ======================
 
-Desarrollador fullstack
+Desarrollador de software
 ------------------------------------
 🥉 en [Canarias Skills 2024](https://canariasskills.com/) *(en la modalidad de desarrollo web)*
 
